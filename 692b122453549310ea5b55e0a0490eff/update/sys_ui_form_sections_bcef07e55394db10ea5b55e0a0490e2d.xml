@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="bcef07e55394db10ea5b55e0a0490e2d" sys_domain="global" table="x_1791894_mentor_0_mentorship_session" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-02 02:38:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01ef07e55394db10ea5b55e0a0490e34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1791894_mentor_0_mentorship_session" name="x_1791894_mentor_0_mentorship_session" sys_domain="global" view="Default view">bcef07e55394db10ea5b55e0a0490e2d</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1791894_mentor_0_mentorship_session" sys_domain="global" view="Default view">78efc3e55394db10ea5b55e0a0490ed8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-02 02:38:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-02 02:38:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1ef07e55394db10ea5b55e0a0490e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1791894_mentor_0_mentorship_session" name="x_1791894_mentor_0_mentorship_session" sys_domain="global" view="Default view">bcef07e55394db10ea5b55e0a0490e2d</sys_ui_form>
+            <sys_ui_section caption="Mentorship Session" display_value="Mentorship Session" name="x_1791894_mentor_0_mentorship_session" sys_domain="global" view="Default view">928dd66853549310ea5b55e0a0490e61</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-02 02:38:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1791894_mentor_0_mentorship_session</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-02 02:38:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcef07e55394db10ea5b55e0a0490e2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1791894_mentor_0_mentorship_session</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Mentorship Program" source="x_1791894_mentor_0">692b122453549310ea5b55e0a0490eff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</sys_scope>
+            <sys_update_name>sys_ui_form_sections_bcef07e55394db10ea5b55e0a0490e2d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-02 02:38:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
