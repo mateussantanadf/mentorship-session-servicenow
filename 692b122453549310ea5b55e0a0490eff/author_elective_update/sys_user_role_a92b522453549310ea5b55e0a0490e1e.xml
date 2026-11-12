@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1791894_mentor_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-29 20:13:58</sys_created_on>
+        <sys_id>a92b522453549310ea5b55e0a0490e1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1791894_mentor_0.user</sys_name>
+        <sys_package display_value="Mentorship Program" source="x_1791894_mentor_0">692b122453549310ea5b55e0a0490eff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</sys_scope>
+        <sys_update_name>sys_user_role_a92b522453549310ea5b55e0a0490e1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-29 20:13:58</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</application>
+        <file_path/>
+        <instance_id>6811a93ffbb8e2140921f633beefdc10</instance_id>
+        <instance_name>dev328859</instance_name>
+        <name>sys_user_role_a92b522453549310ea5b55e0a0490e1e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default user role</description><elevated_privilege>false</elevated_privilege><federated_id/><grantable>true</grantable><includes_roles/><name>x_1791894_mentor_0.user</name><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-29 20:13:58</sys_created_on><sys_id>a92b522453549310ea5b55e0a0490e1e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1791894_mentor_0.user</sys_name><sys_package display_value="Mentorship Program" source="x_1791894_mentor_0">692b122453549310ea5b55e0a0490eff</sys_package><sys_policy/><sys_scope display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</sys_scope><sys_update_name>sys_user_role_a92b522453549310ea5b55e0a0490e1e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-29 20:13:58</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>354650700</payload_hash>
+        <record_name>x_1791894_mentor_0.user</record_name>
+        <reverted_from/>
+        <source>e52b522453549310ea5b55e0a0490e08</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-29 20:13:58</sys_created_on>
+        <sys_id>752b522453549310ea5b55e0a0490e26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1894c42350000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-29 20:13:58</sys_updated_on>
+        <type>Role</type>
+        <update_guid>352b52245b549310efde9d94f89b1625</update_guid>
+        <update_guid_history>352b52245b549310efde9d94f89b1625:354650700</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1791894_mentor_0.user">27345364535c9310ea5b55e0a0490e62</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-30 00:23:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>927c910a739b44329f2740e585650389</sys_id>
+        <sys_metadata>a92b522453549310ea5b55e0a0490e1e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1791894_mentor_0.user</sys_name>
+        <sys_package display_value="Mentorship Program" source="x_1791894_mentor_0">692b122453549310ea5b55e0a0490eff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</sys_scope>
+        <sys_scope_delete display_value="">278e8bcecc184fd2879a59ce3d6f2e24</sys_scope_delete>
+        <sys_update_name>sys_user_role_a92b522453549310ea5b55e0a0490e1e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_a92b522453549310ea5b55e0a0490e1e">752b522453549310ea5b55e0a0490e26</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-30 00:23:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Verify Session date is in past</description>
+        <field>session_date</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>verifySessionDate</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+    if (isLoading || !newValue || newValue.indexOf('-') === -1) {
+        return;
+    }
+
+    var dataSelecionada = newValue.split(' ')[0];
+    var hoje = new Date().toISOString().split('T')[0];
+
+    if (dataSelecionada < hoje) {
+        g_form.clearMessages();
+        g_form.addErrorMessage('The session date cannot be earlier than today.');
+        g_form.clearValue('session_date');
+    }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-02 02:08:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e5388ba55354db10ea5b55e0a0490e5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>verifySessionDate</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mentorship Program" source="x_1791894_mentor_0">692b122453549310ea5b55e0a0490eff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</sys_scope>
+        <sys_update_name>sys_script_client_e5388ba55354db10ea5b55e0a0490e5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-02 02:08:36</sys_updated_on>
+        <table>x_1791894_mentor_0_mentorship_session</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

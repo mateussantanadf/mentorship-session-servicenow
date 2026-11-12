@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Podem criar e alterar sessões de mentoria e informações de mentores.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>CtkTTEdgX+iQXkEAu8oOyBc2gkU9QU3LgUDIZJ1Fz+U=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1791894_mentor_0.mentor</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>mentor</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-29 23:10:20</sys_created_on>
+        <sys_id>4c638bac53989310ea5b55e0a0490efa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1791894_mentor_0.mentor</sys_name>
+        <sys_package display_value="Mentorship Program" source="x_1791894_mentor_0">692b122453549310ea5b55e0a0490eff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</sys_scope>
+        <sys_update_name>sys_user_role_4c638bac53989310ea5b55e0a0490efa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-29 23:10:20</sys_updated_on>
+    </sys_user_role>
+</record_update>

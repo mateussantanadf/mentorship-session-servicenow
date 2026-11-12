@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="DELETE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>New Mentorship Session</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item display_value="Mentorship Session">d29d242153509b10ea5b55e0a0490ee1</sc_cat_item>
+        <sc_category/>
+        <short_description/>
+        <sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page>
+        <sp_rectangle_menu display_value="Employee Center Menu">493d01365368301056c1ddeeff7b1207</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-01 15:37:29</sys_created_on>
+        <sys_id>4458f02953909b10ea5b55e0a0490e07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Mentorship Session</sys_name>
+        <sys_package display_value="Mentorship Program" source="x_1791894_mentor_0">692b122453549310ea5b55e0a0490eff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_4458f02953909b10ea5b55e0a0490e07</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-01 15:37:29</sys_updated_on>
+        <table/>
+        <type>sc_cat_item</type>
+        <url/>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="DELETE" query="documentkey=4458f02953909b10ea5b55e0a0490e07"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</application>
+        <file_path/>
+        <instance_id>6811a93ffbb8e2140921f633beefdc10</instance_id>
+        <instance_name>dev328859</instance_name>
+        <name>sp_rectangle_menu_item_4458f02953909b10ea5b55e0a0490e07</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item"><sp_rectangle_menu_item action="INSERT_OR_UPDATE"><active>true</active><color>default</color><condition/><display_1/><display_2/><display_date/><filter/><glyph/><hint/><kb_article/><kb_category/><kb_topic/><label>New Mentorship Session</label><order>100</order><record_script/><sc_cat_item display_value="Mentorship Session">d29d242153509b10ea5b55e0a0490ee1</sc_cat_item><sc_category/><short_description/><sp_page display_value="sc_cat_item">9f12251147132100ba13a5554ee490f4</sp_page><sp_rectangle_menu display_value="Employee Center Menu">493d01365368301056c1ddeeff7b1207</sp_rectangle_menu><sp_rectangle_menu_item/><sys_class_name>sp_rectangle_menu_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-01 15:37:29</sys_created_on><sys_id>4458f02953909b10ea5b55e0a0490e07</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Mentorship Session</sys_name><sys_package display_value="Mentorship Program" source="x_1791894_mentor_0">692b122453549310ea5b55e0a0490eff</sys_package><sys_policy/><sys_scope display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</sys_scope><sys_update_name>sp_rectangle_menu_item_4458f02953909b10ea5b55e0a0490e07</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-01 15:37:29</sys_updated_on><table/><type>sc_cat_item</type><url/><url_target/></sp_rectangle_menu_item><sys_translated_text action="delete_multiple" query="documentkey=4458f02953909b10ea5b55e0a0490e07"/></record_update>]]></payload>
+        <payload_hash>1637741694</payload_hash>
+        <record_name>New Mentorship Session</record_name>
+        <reverted_from/>
+        <source>e52b522453549310ea5b55e0a0490e08</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-01 15:37:29</sys_created_on>
+        <sys_id>fca87c2953909b10ea5b55e0a0490e72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a197c233c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-01 15:37:29</sys_updated_on>
+        <type>Menu Item</type>
+        <update_guid>f0a83c29d5909b10af1c183448f30209</update_guid>
+        <update_guid_history>f0a83c29d5909b10af1c183448f30209:1637741694</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New Mentorship Session">750e706553d09b10ea5b55e0a0490e9d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-01 16:01:02</sys_created_on>
+        <sys_db_object display_value="" name="sp_rectangle_menu_item">sp_rectangle_menu_item</sys_db_object>
+        <sys_id>2fc3ae27081644049db26b7e73296910</sys_id>
+        <sys_metadata>4458f02953909b10ea5b55e0a0490e07</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Mentorship Session</sys_name>
+        <sys_package display_value="Mentorship Program" source="x_1791894_mentor_0">692b122453549310ea5b55e0a0490eff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mentorship Program">692b122453549310ea5b55e0a0490eff</sys_scope>
+        <sys_scope_delete display_value="">278e8bcecc184fd2879a59ce3d6f2e24</sys_scope_delete>
+        <sys_update_name>sp_rectangle_menu_item_4458f02953909b10ea5b55e0a0490e07</sys_update_name>
+        <sys_update_version display_value="sp_rectangle_menu_item_4458f02953909b10ea5b55e0a0490e07">fca87c2953909b10ea5b55e0a0490e72</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-01 16:01:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
